@@ -135,6 +135,6 @@ kubectl rollout status deployment/ai-agent --timeout=180s
 
 ## 8. Auteur
 
-Projet développé avec l’aide de l’IA, et porté par **Ashraf ADEL SABAA**.  
+Projet porté par **Ashraf ADEL SABAA**.  
 N’hésite pas à adapter ce squelette pour tes propres agents IA et serveurs MCP.
 

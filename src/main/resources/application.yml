@@ -17,3 +17,11 @@ management:
     readinessstate:
       enabled: true
 
+anthropic:
+  api-key: ${ANTHROPIC_API_KEY:missing-key}
+  model-name: claude-3-5-sonnet-20241022
+
+mcp:
+  server-url: http://localhost:8081/mcp/chat
+
+
